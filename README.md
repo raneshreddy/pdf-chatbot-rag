@@ -1,1 +1,1 @@
-# pdf_chatbot_rag
+# pdf-chatbot-rag
